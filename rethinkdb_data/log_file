@@ -13,3 +13,8 @@
 2016-08-23T15:06:22.433415000 1.316041s notice: Listening on http addresses: 127.0.0.1, ::1
 2016-08-23T15:06:22.433421000 1.316048s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
 2016-08-23T15:06:22.433430000 1.316056s notice: Server ready, "Dmitrys_MBP_5_gmv" 1dd5f63a-1605-438e-82f9-97a5c326943d
+2016-08-23T15:16:20.815024000 599.712548s notice: Server got SIGINT from pid 1543, uid 501; shutting down...
+2016-08-23T15:16:20.815229000 599.712754s notice: Shutting down client connections...
+2016-08-23T15:16:20.815324000 599.712849s notice: All client connections closed.
+2016-08-23T15:16:20.815347000 599.712871s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2016-08-23T15:16:20.815759000 599.713283s notice: Storage engine shut down.
