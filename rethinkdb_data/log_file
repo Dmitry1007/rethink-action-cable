@@ -1,0 +1,15 @@
+2016-08-23T15:06:21.123611000 0.006238s notice: Recursively removing directory /Users/Dmitry/rethink-action-cable/rethinkdb_data/tmp
+2016-08-23T15:06:21.124648000 0.007278s notice: Initializing directory /Users/Dmitry/rethink-action-cable/rethinkdb_data
+2016-08-23T15:06:21.124714000 0.007340s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/Dmitry/rethink-action-cable/rethinkdb_data' did not already exist or is empty.)
+2016-08-23T15:06:21.124735000 0.007362s notice: Running rethinkdb 2.3.4 (CLANG 7.3.0 (clang-703.0.31))...
+2016-08-23T15:06:21.128107000 0.010734s notice: Running on Darwin 15.4.0 x86_64
+2016-08-23T15:06:21.128137000 0.010764s notice: Loading data from directory /Users/Dmitry/rethink-action-cable/rethinkdb_data
+2016-08-23T15:06:22.430695000 1.313322s info: Automatically using cache size of 290 MB
+2016-08-23T15:06:22.431708000 1.314335s notice: Listening for intracluster connections on port 29015
+2016-08-23T15:06:22.433278000 1.315905s notice: Listening for client driver connections on port 28015
+2016-08-23T15:06:22.433406000 1.316033s notice: Listening for administrative HTTP connections on port 8080
+2016-08-23T15:06:22.433408000 1.316035s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2016-08-23T15:06:22.433412000 1.316038s notice: Listening on driver addresses: 127.0.0.1, ::1
+2016-08-23T15:06:22.433415000 1.316041s notice: Listening on http addresses: 127.0.0.1, ::1
+2016-08-23T15:06:22.433421000 1.316048s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2016-08-23T15:06:22.433430000 1.316056s notice: Server ready, "Dmitrys_MBP_5_gmv" 1dd5f63a-1605-438e-82f9-97a5c326943d
